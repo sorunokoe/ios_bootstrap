@@ -13,35 +13,6 @@
 <br/><br/>
 
 ### .gitignore
-```
-.DS_Store
-build/
-*.pbxuser
-!default.pbxuser
-*.mode1v3
-!default.mode1v3
-*.mode2v3
-!default.mode2v3
-*.perspectivev3
-!default.perspectivev3
-*.xcworkspace
-!default.xcworkspace
-xcuserdata
-*.moved-aside
-DerivedData
-.idea/
-AdHoc/
-Mix/
-Pods/
-Podfile.lock
-screenshots/
-fastlane/report.xml
-fastlane/Preview.html
-fastlane/screenshots/**/*.png
-fastlane/test_output
-```
-
-or 
 
 ```
 Swift:
